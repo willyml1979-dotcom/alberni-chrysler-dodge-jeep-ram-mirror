@@ -1,0 +1,152 @@
+{
+  "dealership": "Alberni Chrysler Dodge Jeep Ram",
+  "generated_at": "2026-09-26T12:54:31",
+  "vehicle_count": 13,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Used2021Ram1500 ClassicExpress",
+      "vin": "3C6RR7KT0MG513416",
+      "stock": "C267193",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/fe9febb67bb6.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2021-ram-1500-classic-express-AciAWTl8TSGpwoXH61lxaAvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2021-ram-1500-classic-express-AciAWTl8TSGpwoXH61lxaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:22:17",
+      "condition": "used"
+    },
+    {
+      "name": "Used2021ToyotaRAV4 PrimeXSE",
+      "vin": "JTMGB3FV2MD018091",
+      "stock": "T26123A",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/22a9a9ca3e03.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2021-toyota-rav4-prime-xse-B1uSSATxQj2s8Xor0GMSHAvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2021-toyota-rav4-prime-xse-B1uSSATxQj2s8Xor0GMSHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:22:29",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022ToyotaHighlanderXLE",
+      "vin": "5TDGZRBH0NS562349",
+      "stock": "T26138A",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/e9ee263dbf44.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2022-toyota-highlander-xle-NGzAhLPNQB2B2U37dC45KAvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2022-toyota-highlander-xle-NGzAhLPNQB2B2U37dC45KAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:22:39",
+      "condition": "used"
+    },
+    {
+      "name": "Used2022ToyotaTundra",
+      "vin": "5TFNA5DB0NX030920",
+      "stock": "CR3782",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/057dab919e6a.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2022-toyota-tundra-platinum-0SYn7CAHTTSSJ1IzXWKEqwvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2022-toyota-tundra-platinum-0SYn7CAHTTSSJ1IzXWKEqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:22:50",
+      "condition": "used"
+    },
+    {
+      "name": "Used2023ToyotaRAV4Hybrid SE",
+      "vin": "2T34WRFVXPW153546",
+      "stock": "T23054",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/e0649684b9be.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2023-toyota-rav4-hybrid-se-BDsMsQcGQo6SX40GNAKpOQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2023-toyota-rav4-hybrid-se-BDsMsQcGQo6SX40GNAKpOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:22:59",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024ChryslerGrand CaravanSXT",
+      "vin": "2C4RC1ZG9RR201158",
+      "stock": "C247113",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/7ae08d4e7970.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2024-chrysler-grand-caravan-sxt-1qhsM50DTUSCWdcPRo004Qvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2024-chrysler-grand-caravan-sxt-1qhsM50DTUSCWdcPRo004Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:12",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024HyundaiSanta FeLuxury",
+      "vin": "5NMP4DGL5RH010014",
+      "stock": "C267191",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/b51fa9992438.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2024-hyundai-santa-fe-luxury-83i6wsYZTtm8HrXu3t97BQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2024-hyundai-santa-fe-luxury-83i6wsYZTtm8HrXu3t97BQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:23",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024JeepWrangler 4xeSport S",
+      "vin": "1C4RJXN63RW203615",
+      "stock": "C247070",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/d6dad5dcdfab.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:33",
+      "condition": "used"
+    },
+    {
+      "name": "Used2024ToyotaTundra",
+      "vin": "5TFLA5DBXRX131847",
+      "stock": "CR3783",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/01d6c87c2841.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2024-toyota-tundra-sr-FA2FbkXpQG6ZNSND3OQCqAvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2024-toyota-tundra-sr-FA2FbkXpQG6ZNSND3OQCqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:45",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025ChryslerPacifica HybridLimited S Appearance",
+      "vin": "2C4RC1S77SR558645",
+      "stock": "C257139",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/be9ab59d0b24.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:23:57",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025Ram1500Tradesman",
+      "vin": "3C6RRFGG4S4161686",
+      "stock": "C257184",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/74a6a57a24f1.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-ram-1500-tradesman-JflyBYGTTbyj3m128cSTYwvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-ram-1500-tradesman-JflyBYGTTbyj3m128cSTYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:24:06",
+      "condition": "used"
+    },
+    {
+      "name": "Used2025RamProMaster Cargo VanSLT+",
+      "vin": "3C6MRVXG5SE510465",
+      "stock": "C257126",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/ae16fe8e5ba7.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-ram-promaster-cargo-van-slt-LE9CMJQXS5uVzKZcVVldbAvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-ram-promaster-cargo-van-slt-LE9CMJQXS5uVzKZcVVldbAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:24:19",
+      "condition": "used"
+    },
+    {
+      "name": "28 Vehicles For Sale in Port Alberni, BC",
+      "vin": "5TFNA5DB0NX030920",
+      "stock": "CR3782",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/36de3d50e202.html",
+      "source_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE",
+      "dealer_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:28:20",
+      "condition": "used"
+    }
+  ]
+}
