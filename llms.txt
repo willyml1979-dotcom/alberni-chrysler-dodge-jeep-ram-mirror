@@ -3,7 +3,7 @@
 > Alberni Chrysler Dodge Jeep Ram is a  dealership in Port Alberni. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/): 13 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/): 28 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources

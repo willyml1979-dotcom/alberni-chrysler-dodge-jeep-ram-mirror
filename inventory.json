@@ -1,20 +1,22 @@
 {
   "dealership": "Alberni Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-09-26T18:32:36",
-  "vehicle_count": 13,
+  "generated_at": "2026-10-07T20:45:35",
+  "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
     {
-      "name": "Used2021Ram1500 ClassicExpress",
+      "name": "Used2021Ram1500 Classic",
       "vin": "3C6RR7KT0MG513416",
       "stock": "C267193",
       "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/fe9febb67bb6.html",
       "source_url": "https://www.albernichrysler.com/inventory/2021-ram-1500-classic-express-AciAWTl8TSGpwoXH61lxaAvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2021-ram-1500-classic-express-AciAWTl8TSGpwoXH61lxaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:22:17",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:43:43",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2021ToyotaRAV4 PrimeXSE",
@@ -25,7 +27,9 @@
       "source_url": "https://www.albernichrysler.com/inventory/2021-toyota-rav4-prime-xse-B1uSSATxQj2s8Xor0GMSHAvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2021-toyota-rav4-prime-xse-B1uSSATxQj2s8Xor0GMSHAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:30:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2022ToyotaHighlanderXLE",
@@ -36,7 +40,9 @@
       "source_url": "https://www.albernichrysler.com/inventory/2022-toyota-highlander-xle-NGzAhLPNQB2B2U37dC45KAvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2022-toyota-highlander-xle-NGzAhLPNQB2B2U37dC45KAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:22:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2022ToyotaTundra",
@@ -46,8 +52,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/057dab919e6a.html",
       "source_url": "https://www.albernichrysler.com/inventory/2022-toyota-tundra-platinum-0SYn7CAHTTSSJ1IzXWKEqwvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2022-toyota-tundra-platinum-0SYn7CAHTTSSJ1IzXWKEqwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:22:50",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:00",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2023ToyotaRAV4Hybrid SE",
@@ -57,8 +65,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/e0649684b9be.html",
       "source_url": "https://www.albernichrysler.com/inventory/2023-toyota-rav4-hybrid-se-BDsMsQcGQo6SX40GNAKpOQvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2023-toyota-rav4-hybrid-se-BDsMsQcGQo6SX40GNAKpOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:22:59",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:10",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2024ChryslerGrand CaravanSXT",
@@ -68,8 +78,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/7ae08d4e7970.html",
       "source_url": "https://www.albernichrysler.com/inventory/2024-chrysler-grand-caravan-sxt-1qhsM50DTUSCWdcPRo004Qvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2024-chrysler-grand-caravan-sxt-1qhsM50DTUSCWdcPRo004Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:23:12",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:21",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2024HyundaiSanta FeLuxury",
@@ -80,7 +92,9 @@
       "source_url": "https://www.albernichrysler.com/inventory/2024-hyundai-santa-fe-luxury-83i6wsYZTtm8HrXu3t97BQvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2024-hyundai-santa-fe-luxury-83i6wsYZTtm8HrXu3t97BQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:23:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2024JeepWrangler 4xeSport S",
@@ -90,8 +104,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/d6dad5dcdfab.html",
       "source_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T18:31:36",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:36",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2024ToyotaTundra",
@@ -101,8 +117,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/01d6c87c2841.html",
       "source_url": "https://www.albernichrysler.com/inventory/2024-toyota-tundra-sr-FA2FbkXpQG6ZNSND3OQCqAvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2024-toyota-tundra-sr-FA2FbkXpQG6ZNSND3OQCqAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:23:45",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:47",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2025ChryslerPacifica HybridLimited S Appearance",
@@ -112,8 +130,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/be9ab59d0b24.html",
       "source_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2025-chrysler-pacifica-hybrid-limited-s-appearance-7l13FCJQTOGzBocNn9YDggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:23:57",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:44:59",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2025Ram1500Tradesman",
@@ -123,8 +143,10 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/74a6a57a24f1.html",
       "source_url": "https://www.albernichrysler.com/inventory/2025-ram-1500-tradesman-JflyBYGTTbyj3m128cSTYwvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2025-ram-1500-tradesman-JflyBYGTTbyj3m128cSTYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:24:06",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:45:10",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
       "name": "Used2025RamProMaster Cargo VanSLT+",
@@ -134,19 +156,220 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/ae16fe8e5ba7.html",
       "source_url": "https://www.albernichrysler.com/inventory/2025-ram-promaster-cargo-van-slt-LE9CMJQXS5uVzKZcVVldbAvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2025-ram-promaster-cargo-van-slt-LE9CMJQXS5uVzKZcVVldbAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:24:19",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:45:19",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
     },
     {
-      "name": "28 Vehicles For Sale in Port Alberni, BC",
+      "name": "Used2026JeepCompassNorth",
+      "vin": "3C4NJDBN6TT203274",
+      "stock": "C247067",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/7b137f81d34c.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-compass-north-NHVqyUeNTT2qWMIKcC6Z8gvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-compass-north-NHVqyUeNTT2qWMIKcC6Z8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:43:18",
+      "odometer_km": 3721,
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "Used2026ToyotaCorolla CrossLE",
+      "vin": "7MUCAABG7TV148938",
+      "stock": "T26004",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/224ee5a53a19.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-toyota-corolla-cross-le-NLgRSe3UTOyuyWCIgMY8ywvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-toyota-corolla-cross-le-NLgRSe3UTOyuyWCIgMY8ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:43:33",
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "26 Vehicles For Sale in Port Alberni, BC",
       "vin": "5TFNA5DB0NX030920",
       "stock": "CR3782",
       "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/36de3d50e202.html",
       "source_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE",
       "dealer_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T18:32:31",
-      "condition": "used"
+      "last_verified": "2026-10-07T20:45:30",
+      "odometer_km": 3721,
+      "condition": "used",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2024DodgeHornet",
+      "vin": "ZACPDFCW1R3A17815",
+      "stock": "C247068",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/cd027c19647e.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2024-dodge-hornet-r-t-f9vkGexMRz6CFrJjHPYrIgvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2024-dodge-hornet-r-t-f9vkGexMRz6CFrJjHPYrIgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:52:11",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2025JeepCompassSport",
+      "vin": "3C4NJDAN8ST606589",
+      "stock": "C257156",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/502cc3c2812c.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-jeep-compass-sport-EVYpSLFBTwOF21qo9YPYCgvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-jeep-compass-sport-EVYpSLFBTwOF21qo9YPYCgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:52:22",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2025JeepGrand Cherokee",
+      "vin": "1C4RJHAG3SC363070",
+      "stock": "C257165",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/3c75baa2896e.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-altitude-Ns1bNoZmQK6b6wlXhxsv8Qvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-altitude-Ns1bNoZmQK6b6wlXhxsv8Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:52:31",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2025JeepGrand Cherokee LLimited",
+      "vin": "1C4RJKBG0S8709445",
+      "stock": "C257171",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/159e8b8808ad.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-l-limited-onanpV0DTPeZSNNHd316wQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2025-jeep-grand-cherokee-l-limited-onanpV0DTPeZSNNHd316wQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:52:41",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026DodgeChargerScat Pack Plus",
+      "vin": "2C3CDAMP2TR171300",
+      "stock": "C267185",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/9325d3015393.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-dodge-charger-scat-pack-plus-Qtac9m68QJWruq7uG8BI0gvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-dodge-charger-scat-pack-plus-Qtac9m68QJWruq7uG8BI0gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:52:51",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026JeepCherokeeLimited",
+      "vin": "3C4PJMB29TT161892",
+      "stock": "C267194",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/f1431b266057.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-cherokee-limited-vAe2KtzfTPeP7HZGSSI59gvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-cherokee-limited-vAe2KtzfTPeP7HZGSSI59gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-01T20:53:02",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026JeepGladiator",
+      "vin": "1C6PJTAG1TL154803",
+      "stock": "C267176",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/6b86493efd48.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-sport-s-eWkORdrXR1iytRtV44Q2KQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-sport-s-eWkORdrXR1iytRtV44Q2KQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:21",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026JeepGladiator",
+      "vin": "1C6PJTAG7TL155454",
+      "stock": "C267181",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/b71a4fbccabe.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-willys-7IoIIqLiTX2VGAVDOtAn4gvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-willys-7IoIIqLiTX2VGAVDOtAn4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:32",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026JeepWrangler",
+      "vin": "1C4PJXAN7TW196051",
+      "stock": "C267174",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/54b58daa5273.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-wrangler-sport-J8eXpSQ0TayYJOOc23Sn8Avdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-wrangler-sport-J8eXpSQ0TayYJOOc23Sn8Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:43",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026Ram1500Express",
+      "vin": "1C6RRFCG8TN333618",
+      "stock": "C267188",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/6d103c4d9651.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-express-vuP8VPpZRhq9OxxBAa6RIQvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-express-vuP8VPpZRhq9OxxBAa6RIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:55",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026Ram1500Sport",
+      "vin": "1C6SRFVT4TN348919",
+      "stock": "C267190",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/e27192e30d6f.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-sport-IwlGMuLOR2uRkagyTGVKEgvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-sport-IwlGMuLOR2uRkagyTGVKEgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:06",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "New2026Ram3500Big Horn",
+      "vin": "3C63R3DL0TG252623",
+      "stock": "C267183",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/dfb8dc4c0c20.html",
+      "source_url": "https://www.albernichrysler.com/inventory/2026-ram-3500-big-horn-vCSRZSVFSU6ArU0HLsNYswvdp",
+      "dealer_url": "https://www.albernichrysler.com/inventory/2026-ram-3500-big-horn-vCSRZSVFSU6ArU0HLsNYswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:18",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
+    },
+    {
+      "name": "33 Vehicles For Sale in Port Alberni, BC",
+      "vin": "ZACPDFCW1R3A17815",
+      "stock": "C247068",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/49d5c39df2f3.html",
+      "source_url": "https://www.albernichrysler.com/inventory/new/?inStock=TRUE",
+      "dealer_url": "https://www.albernichrysler.com/inventory/new/?inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:28",
+      "condition": "new",
+      "city": "Port Alberni",
+      "province": "BC"
     }
   ]
 }
