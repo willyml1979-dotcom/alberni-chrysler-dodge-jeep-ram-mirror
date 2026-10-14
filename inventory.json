@@ -1,6 +1,6 @@
 {
   "dealership": "Alberni Chrysler Dodge Jeep Ram",
-  "generated_at": "2026-10-09T21:28:41",
+  "generated_at": "2026-10-13T21:48:38",
   "vehicle_count": 28,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -104,7 +104,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/d6dad5dcdfab.html",
       "source_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2024-jeep-wrangler-4xe-sport-s-AvHwqyQmQKezMmE6vpftZQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:44:36",
+      "last_verified": "2026-10-13T21:47:41",
       "condition": "used",
       "city": "Port Alberni",
       "province": "BC"
@@ -169,7 +169,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/7b137f81d34c.html",
       "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-compass-north-NHVqyUeNTT2qWMIKcC6Z8gvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-compass-north-NHVqyUeNTT2qWMIKcC6Z8gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:43:18",
+      "last_verified": "2026-10-13T21:46:36",
       "odometer_km": 3721,
       "condition": "used",
       "city": "Port Alberni",
@@ -183,7 +183,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/224ee5a53a19.html",
       "source_url": "https://www.albernichrysler.com/inventory/2026-toyota-corolla-cross-le-NLgRSe3UTOyuyWCIgMY8ywvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2026-toyota-corolla-cross-le-NLgRSe3UTOyuyWCIgMY8ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:43:33",
+      "last_verified": "2026-10-13T21:46:46",
       "condition": "used",
       "city": "Port Alberni",
       "province": "BC"
@@ -196,7 +196,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/used/36de3d50e202.html",
       "source_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE",
       "dealer_url": "https://www.albernichrysler.com/inventory/used/?inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T21:28:37",
+      "last_verified": "2026-10-13T21:48:32",
       "odometer_km": 3721,
       "condition": "used",
       "city": "Port Alberni",
@@ -301,7 +301,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/b71a4fbccabe.html",
       "source_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-willys-7IoIIqLiTX2VGAVDOtAn4gvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2026-jeep-gladiator-willys-7IoIIqLiTX2VGAVDOtAn4gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T19:52:32",
+      "last_verified": "2026-10-09T21:30:40",
       "condition": "new",
       "city": "Port Alberni",
       "province": "BC"
@@ -340,7 +340,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/e27192e30d6f.html",
       "source_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-sport-IwlGMuLOR2uRkagyTGVKEgvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2026-ram-1500-sport-IwlGMuLOR2uRkagyTGVKEgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T19:53:06",
+      "last_verified": "2026-10-09T21:31:10",
       "condition": "new",
       "city": "Port Alberni",
       "province": "BC"
@@ -353,7 +353,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/dfb8dc4c0c20.html",
       "source_url": "https://www.albernichrysler.com/inventory/2026-ram-3500-big-horn-vCSRZSVFSU6ArU0HLsNYswvdp",
       "dealer_url": "https://www.albernichrysler.com/inventory/2026-ram-3500-big-horn-vCSRZSVFSU6ArU0HLsNYswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T19:53:18",
+      "last_verified": "2026-10-09T21:31:23",
       "condition": "new",
       "city": "Port Alberni",
       "province": "BC"
@@ -366,7 +366,7 @@
       "url": "https://willyml1979-dotcom.github.io/alberni-chrysler-dodge-jeep-ram-mirror/new/49d5c39df2f3.html",
       "source_url": "https://www.albernichrysler.com/inventory/new/?inStock=TRUE",
       "dealer_url": "https://www.albernichrysler.com/inventory/new/?inStock=TRUE&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T19:53:28",
+      "last_verified": "2026-10-09T21:31:34",
       "condition": "new",
       "city": "Port Alberni",
       "province": "BC"
